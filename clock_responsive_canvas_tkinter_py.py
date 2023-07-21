@@ -78,6 +78,5 @@ def update_screensize():
     #print(width,height)
     canvas.config(width = width,  height = height)
 
-
 seconds()
 tkinter.mainloop()
